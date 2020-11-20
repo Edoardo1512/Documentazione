@@ -37,8 +37,10 @@ Passaggi eseguiti:
 -  salvare il file e successivamente applicare le modifiche con il comando:
    - netplan try
 
-- installare apache2
+- installare apache2, mc e net-tools
   - apt install apache2
+  - apt install mc
+  - apt install net-tools
         
         
         
