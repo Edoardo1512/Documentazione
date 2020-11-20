@@ -35,8 +35,10 @@ Passaggi eseguiti:
               addresses: [172.16.1.10, 172.16.1.18]
 
 -  salvare il file e successivamente applicare le modifiche con il comando:
-  - netplan try
-            
+   - netplan try
+
+- installare apache2
+  - apt install apache2
         
         
         
